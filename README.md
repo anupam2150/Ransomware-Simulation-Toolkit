@@ -82,12 +82,6 @@ This project is intended **solely for educational purposes**. Use only in **isol
 
 ---
 
-## 📜 License
-
-[MIT License](LICENSE)
-
----
-
 ## 👨‍💻 Author
 
 - **Anupam Shinde**  
